@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: FiraSansBold;
+    src: url(FiraSans-Bold.ttf);
+}
+@font-face {
+    font-family: FirasansMedium;
+    src: url(FiraSans-Medium.ttf);
+}
+@font-face {
+    font-family: FiraSansRegular;
+    src: url(FiraSans-Regular.ttf);
+}
+@font-face {
+    font-family: Romana;
+    src: url(ROMANAB.TTF);
+}
+.logo{
+    font-family: Romana;
+    font-family: Romana BT;
+    font-size: 32px;
+    font-weight: 400;
+
+}
+.table1{
+    width: 90%;
+    margin: auto; 
+    padding-bottom: 39.5px;  
+    padding-top: 47.5px;
+}
+section{
+    width: 90%;
+    margin: auto;
+    padding: 72px 310px 72px 310px;
+    background-color: #D7D7D7;
+}
+h1{
+    text-align: center;
+    Font-family: FiraSansBold;
+    font-size: 64px;
+    font-weight: 700;
+    width: 672px;
+    color: #636161;
+}
+.p1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    font-family: FirasansMedium;
+    color:#636161;
+    padding-top: 46px;
+}
+img{
+    padding-top: 27.5px;
+    display: flex;
+    margin: auto;
+}
+.p2{
+    padding-top: 119.5px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: FirasansMedium;
+    color: #636161;
+    padding-bottom: 24px;
+}
+button{
+    font-family: FirasansMedium;
+    font-size: 24px;
+    font-weight: 500;
+    color: #636161;
+    padding: 14px 18px;
+    border-radius: 8px;
+    border-style: none;
+    display: flex;
+    margin: auto;
+}
+.btn{
+    padding-bottom: 163px;
+}
+td{
+    font-size: 16px;
+    font-family: FiraSansRegular;
+}
